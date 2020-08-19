@@ -1,0 +1,13 @@
+{
+  "title": "Welcome",
+  "steps": [
+    {
+      "title": "Introduction",
+      "description": "# Welcome to Azure Functions\n\nThis tour will guide you through the creation of a Python function app and deploy it to Azure.\n\n1. Create a function app project\n1. Create a function\n1. Run the function app\n1. Deploy the function app"
+    },
+    {
+      "title": "Create a function app project",
+      "description": "[Create a function app](command:azureFunctions.createNewProject)"
+    }
+  ]
+}
